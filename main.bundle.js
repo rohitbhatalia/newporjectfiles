@@ -21,7 +21,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".panel-content .panel-title {\r\n    padding: 0px 5px 5px 5px;\r\n    border-bottom: 1px solid #f0f0f3;\r\n    font-size: 16px;\r\n    text-transform: uppercase;\r\n  }\r\n  \r\n   .panel-title {\r\n    color: #62b132;\r\n    font-weight: 700;\r\n  }", ""]);
+exports.push([module.i, "", ""]);
 
 // exports
 
@@ -80,7 +80,7 @@ exports = module.exports = __webpack_require__("../../../../css-loader/lib/css-b
 
 
 // module
-exports.push([module.i, ".panel-content .panel-title {\r\n    padding: 0px 5px 5px 5px;\r\n    border-bottom: 1px solid #f0f0f3;\r\n    font-size: 12px;\r\n    text-transform: uppercase;\r\n  }\r\n  \r\n   .panel-title {\r\n    color: #62b132;\r\n    font-weight: 700;\r\n  }\r\n\r\n  ", ""]);
+exports.push([module.i, ".panel-content .panel-title {\r\n    padding: 0px 5px 5px 5px;\r\n    border-bottom: 1px solid #f0f0f3;\r\n    font-size: 12px;\r\n    text-transform: uppercase;\r\n  }\r\n  \r\n   .panel-title {\r\n    color: #62b132;\r\n    font-weight: 700;\r\n  }\r\n\r\n  \r\n\r\n\r\n\r\n\r\n  .dropdown, .dropup {\r\n    position: relative;\r\n}\r\n\r\n.btn-default {\r\n  color: #333;\r\n  background-color: #fff;\r\n  border-color: #ccc;\r\n}\r\n\r\n.btn {\r\n  display: inline-block;\r\n  padding: 6px 12px;\r\n  margin-bottom: 0;\r\n  font-size: 14px;\r\n  font-weight: 400;\r\n  line-height: 1.42857143;\r\n  text-align: center;\r\n  white-space: nowrap;\r\n  vertical-align: middle;\r\n  -ms-touch-action: manipulation;\r\n  touch-action: manipulation;\r\n  cursor: pointer;\r\n  -webkit-user-select: none;\r\n  -moz-user-select: none;\r\n  -ms-user-select: none;\r\n  user-select: none;\r\n  background-image: none;\r\n  border: 1px solid transparent;\r\n  border-radius: 4px;\r\n}\r\n\r\n.btn .caret {\r\n  margin-left: 0;\r\n}\r\n\r\n.caret {\r\n  display: inline-block;\r\n  width: 0;\r\n  height: 0;\r\n  margin-left: 2px;\r\n  vertical-align: middle;\r\n  border-top: 4px dashed;\r\n  border-top: 4px solid\\9;\r\n  border-right: 4px solid transparent;\r\n  border-left: 4px solid transparent;\r\n}\r\n\r\n.dropdown-menu {\r\n  position: absolute;\r\n  top: 100%;\r\n  left: 0;\r\n  z-index: 1000;\r\n  display: none;\r\n  float: left;\r\n  min-width: 160px;\r\n  padding: 5px 0;\r\n  margin: 2px 0 0;\r\n  font-size: 14px;\r\n  text-align: left;\r\n  list-style: none;\r\n  background-color: #fff;\r\n  background-clip: padding-box;\r\n  border: 1px solid #ccc;\r\n  border: 1px solid rgba(0,0,0,.15);\r\n  border-radius: 4px;\r\n  box-shadow: 0 6px 12px rgba(0,0,0,.175);\r\n}", ""]);
 
 // exports
 
@@ -93,7 +93,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<!-- The content below is only a placeholder and can be replaced.\n<div style=\"text-align:center\">\n  <h1>\n    Welcome to {{title}}!\n  </h1>\n  <img width=\"300\" src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAyNTAgMjUwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNTAgMjUwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojREQwMDMxO30NCgkuc3Qxe2ZpbGw6I0MzMDAyRjt9DQoJLnN0MntmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxnPg0KCTxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iMTI1LDMwIDEyNSwzMCAxMjUsMzAgMzEuOSw2My4yIDQ2LjEsMTg2LjMgMTI1LDIzMCAxMjUsMjMwIDEyNSwyMzAgMjAzLjksMTg2LjMgMjE4LjEsNjMuMiAJIi8+DQoJPHBvbHlnb24gY2xhc3M9InN0MSIgcG9pbnRzPSIxMjUsMzAgMTI1LDUyLjIgMTI1LDUyLjEgMTI1LDE1My40IDEyNSwxNTMuNCAxMjUsMjMwIDEyNSwyMzAgMjAzLjksMTg2LjMgMjE4LjEsNjMuMiAxMjUsMzAgCSIvPg0KCTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0xMjUsNTIuMUw2Ni44LDE4Mi42aDBoMjEuN2gwbDExLjctMjkuMmg0OS40bDExLjcsMjkuMmgwaDIxLjdoMEwxMjUsNTIuMUwxMjUsNTIuMUwxMjUsNTIuMUwxMjUsNTIuMQ0KCQlMMTI1LDUyLjF6IE0xNDIsMTM1LjRIMTA4bDE3LTQwLjlMMTQyLDEzNS40eiIvPg0KPC9nPg0KPC9zdmc+DQo=\">\n</div>\n<h2>Here are some links to help you start: </h2>\n<ul>\n  <li>\n    <h2><a target=\"_blank\" href=\"https://angular.io/tutorial\">Tour of Heroes</a></h2>\n  </li>\n  <li>\n    <h2><a target=\"_blank\" href=\"https://github.com/angular/angular-cli/wiki\">CLI Documentation</a></h2>\n  </li>\n  <li>\n    <h2><a target=\"_blank\" href=\"https://blog.angular.io//\">Angular blog</a></h2>\n  </li>\n</ul> -->\n\n\n\n<div fxLayout=\"column\" [style.height]=\"'100vh'\">\n  <ruf-banner color=\"{{bannerColor}}\">\n    \n    <ruf-banner-brand rufId=\"banner_brand_logo\" title=\"Optimiser\" showLogo=\"false\" \n    logoUrl=\"assets/fis-logo-green.png\" altText=\"Welcome\"></ruf-banner-brand>\n        \n    <div class=\"ruf-banner-filler\"></div>\n    \n    <div rufbannercontrols>\n        <div class=\"ruf-banner-filler\"></div>\n        <a> \n          <select fisStyle rufId [(ngModel)]=\"bannerColor\">\n            <option rufId *ngFor=\"let color of colors\" [value]=\"color.value\">{{ color.label }}\n              </option>\n            </select> \n        </a>\n            <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" title=\"{{ email }}\">\n                  <md-icon fisIcon=\"person\" style=\"font-size:16px; height: 18px; width: 18px\"></md-icon> {{user}}\n                </a>\n              <!-- <span class=\"caret\"></span>\n              <ul class=\"dropdown-menu\">\n                <li><a href=\"#\">Logout</a></li>\n              </ul> -->\n            </div>   \n  </ruf-banner>\n\n  <ruf-app-canvas fxFlex [style.overflow-y]=\"'auto'\" [style.padding]=\"0\">\n    \n   <canvas-header></canvas-header>\n    \n   <!-- <router-outlet></router-outlet> -->\n   <canvas-content [bannerColor]=\"bannerColor\"></canvas-content>\n\n  </ruf-app-canvas>\n\n\n  <ruf-footer>\n    &copy; 2017 FIS\n  </ruf-footer>\n</div>"
+module.exports = "<!-- The content below is only a placeholder and can be replaced.\n<div style=\"text-align:center\">\n  <h1>\n    Welcome to {{title}}!\n  </h1>\n  <img width=\"300\" src=\"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAyNTAgMjUwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAyNTAgMjUwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojREQwMDMxO30NCgkuc3Qxe2ZpbGw6I0MzMDAyRjt9DQoJLnN0MntmaWxsOiNGRkZGRkY7fQ0KPC9zdHlsZT4NCjxnPg0KCTxwb2x5Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iMTI1LDMwIDEyNSwzMCAxMjUsMzAgMzEuOSw2My4yIDQ2LjEsMTg2LjMgMTI1LDIzMCAxMjUsMjMwIDEyNSwyMzAgMjAzLjksMTg2LjMgMjE4LjEsNjMuMiAJIi8+DQoJPHBvbHlnb24gY2xhc3M9InN0MSIgcG9pbnRzPSIxMjUsMzAgMTI1LDUyLjIgMTI1LDUyLjEgMTI1LDE1My40IDEyNSwxNTMuNCAxMjUsMjMwIDEyNSwyMzAgMjAzLjksMTg2LjMgMjE4LjEsNjMuMiAxMjUsMzAgCSIvPg0KCTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik0xMjUsNTIuMUw2Ni44LDE4Mi42aDBoMjEuN2gwbDExLjctMjkuMmg0OS40bDExLjcsMjkuMmgwaDIxLjdoMEwxMjUsNTIuMUwxMjUsNTIuMUwxMjUsNTIuMUwxMjUsNTIuMQ0KCQlMMTI1LDUyLjF6IE0xNDIsMTM1LjRIMTA4bDE3LTQwLjlMMTQyLDEzNS40eiIvPg0KPC9nPg0KPC9zdmc+DQo=\">\n</div>\n<h2>Here are some links to help you start: </h2>\n<ul>\n  <li>\n    <h2><a target=\"_blank\" href=\"https://angular.io/tutorial\">Tour of Heroes</a></h2>\n  </li>\n  <li>\n    <h2><a target=\"_blank\" href=\"https://github.com/angular/angular-cli/wiki\">CLI Documentation</a></h2>\n  </li>\n  <li>\n    <h2><a target=\"_blank\" href=\"https://blog.angular.io//\">Angular blog</a></h2>\n  </li>\n</ul> -->\n\n\n\n<div fxLayout=\"column\" [style.height]=\"'100vh'\">\n  <ruf-banner color=\"{{bannerColor}}\">\n    \n    <ruf-banner-brand rufId=\"banner_brand_logo\" title=\"Optimiser\" showLogo=\"false\" \n    logoUrl=\"assets/fis-logo-green.png\" altText=\"Welcome\"></ruf-banner-brand>\n        \n    <div class=\"ruf-banner-filler\"></div>\n    <ruf-menubar color=\"emphasis\">\n      <a rufMenubarItem *ngFor=\"let item of items\">\n        <ruf-menu-label rufId [label]=\"item.label\" [icon]=\"item.icon\" [children]=\"item.children\" (select)=\"selectedTheme($event)\">\n        </ruf-menu-label>\n      </a>\n    </ruf-menubar>     \n  </ruf-banner>\n\n  <ruf-app-canvas fxFlex [style.overflow-y]=\"'auto'\" [style.padding]=\"0\">\n    \n   <canvas-header></canvas-header>\n    \n   <!-- <router-outlet></router-outlet> -->\n   <canvas-content [bannerColor]=\"bannerColor\"></canvas-content>\n\n  </ruf-app-canvas>\n\n\n  <ruf-footer>\n    &copy; 2017 FIS\n  </ruf-footer>\n</div>"
 
 /***/ }),
 
@@ -124,6 +124,11 @@ var AppComponent = (function () {
         this.email = '';
         this.bannerColor = 'emphasis';
     }
+    AppComponent.prototype.selectedTheme = function (menu) {
+        if (menu.valueType == 'theme') {
+            this.bannerColor = menu.label;
+        }
+    };
     AppComponent.prototype.ngOnInit = function () {
         // this.appService.getInfoObserve()
         // .subscribe(o => {
@@ -131,10 +136,16 @@ var AppComponent = (function () {
         //     this.email = o.Email;
         // });
         this.appService.setCurrentBannerColor(this.bannerColor);
-        this.colors = [{ label: 'default', value: 'default' },
-            { label: 'accent', value: 'accent' },
-            { label: 'primary', value: 'primary' },
-            { label: 'emphasis', value: 'emphasis' }];
+        this.items = [
+            { label: 'Theme', icon: 'fis-icon-settings',
+                children: [{ label: 'default', valueType: 'theme' },
+                    { label: 'accent', valueType: 'theme' },
+                    { label: 'primary', valueType: 'theme' },
+                    { label: 'emphasis', valueType: 'theme' }]
+            },
+            { label: this.user, icon: 'fis-icon-person', children: [{ label: 'Logout', valueType: 'info' }]
+            }
+        ];
     };
     return AppComponent;
 }());
@@ -177,12 +188,14 @@ var _a;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__canvas_content_app_canvas_content__ = __webpack_require__("../../../../../src/app/canvas-content/app.canvas_content.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__angular_router__ = __webpack_require__("../../../router/@angular/router.es5.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__angular_forms__ = __webpack_require__("../../../forms/@angular/forms.es5.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__angular_platform_browser_animations__ = __webpack_require__("../../../platform-browser/@angular/platform-browser/animations.es5.js");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+
 
 
 
@@ -215,6 +228,7 @@ AppModule = __decorate([
         ],
         imports: [
             __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
+            __WEBPACK_IMPORTED_MODULE_15__angular_platform_browser_animations__["a" /* BrowserAnimationsModule */],
             __WEBPACK_IMPORTED_MODULE_3__angular_material__["k" /* MdIconModule */],
             __WEBPACK_IMPORTED_MODULE_3__angular_material__["n" /* MdSidenavModule */],
             __WEBPACK_IMPORTED_MODULE_3__angular_material__["g" /* MdButtonModule */],
